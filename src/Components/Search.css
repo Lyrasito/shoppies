@@ -1,0 +1,20 @@
+.searchContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+  margin-left: 25%;
+  margin-top: 30px;
+  height: 50px;
+}
+
+.searchBar {
+  width: 300px;
+  height: 30px;
+  font-size: 25px;
+  margin-top: 12px;
+}
+
+.searchResults {
+  width: 700px;
+  margin-left: 25%;
+}

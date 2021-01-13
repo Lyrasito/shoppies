@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: "Cormorant Garamond";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(4, 13, 20);
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&display=swap");
+
+input {
+  border-radius: 10px;
+  border: 2px solid rgb(32 90 113);
+  font-family: "Cormorant Garamond";
+}
+p {
+  font-size: 24px;
+}
+button {
+  background-color: rgb(32, 90, 113);
+  border-radius: 20px;
+  border: 3px solid rgb(185 112 20);
+  color: white;
+  font-family: "Cormorant Garamond";
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 2% 0 2%;
+  cursor: pointer;
+}
+
+button:hover {
+  border: 3px solid rgb(239 186 118);
+  background-color: rgb(10 30 37);
+}

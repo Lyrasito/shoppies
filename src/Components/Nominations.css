@@ -1,0 +1,12 @@
+.nominationsButton {
+  width: 300px;
+}
+
+.openNominations {
+  background-color: rgb(17, 45, 56);
+  border-radius: 20px;
+}
+
+.nominationList {
+  padding-bottom: 10px;
+}

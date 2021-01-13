@@ -1,0 +1,37 @@
+.searchResultsContainer {
+  background-color: rgb(17, 45, 56);
+  border-radius: 10px;
+  border: 3px solid rgb(148 88 16);
+  margin: 20px 0 50px 0;
+  padding-bottom: 20px;
+}
+
+.moviesContainer {
+  margin: 40px 20px;
+}
+
+.pageNav {
+  width: 30%;
+  margin-left: 37%;
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.pageNav p {
+  margin-bottom: 0;
+}
+.pageNav input {
+  width: 40px;
+  margin-left: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navButton {
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.disabled {
+  cursor: auto;
+}

@@ -1,0 +1,32 @@
+.movieContainer {
+  display: flex;
+  border-top: 3px solid rgb(148 88 16);
+  padding: 10px;
+}
+
+.movieInfo {
+  margin-left: 20px;
+  width: 400px;
+}
+
+button {
+  padding-bottom: 5px;
+  padding-top: 0;
+}
+
+.addNomination:hover {
+  stroke: #ffeeb4;
+}
+
+.svg {
+  margin: 5px 5px -5px 0;
+}
+
+.addNomination {
+  fill: #ffeeb4;
+}
+
+.removeNomination {
+  stroke: #ffeeb4;
+  fill: #ffeeb4;
+}
